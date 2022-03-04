@@ -1,1 +1,1 @@
-Hello, thsi is alx system engineering devops
+Hello, these is alx system engineering devops
